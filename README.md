@@ -1,3 +1,6 @@
+# Hulu Clone built using Next.Js, Tailwind CSS, and Vercel.
+Production: https://hulu-clone-three-ivory.vercel.app/
+
 <img width="840" alt="Screen Shot 2022-06-13 at 11 06 48 AM" src="https://user-images.githubusercontent.com/47643893/173396905-0f4e73c2-005c-4fec-b56c-c46e77e0ad0b.png">
 
 
